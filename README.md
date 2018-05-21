@@ -1,6 +1,6 @@
 # vue pc 模板
 
-## 1月23日更新版本 vue=>2.5.2 / element-ui=>2.0.11 / echarts => 4.0.0
+## vue=>2.5.2 / element-ui=>2.0.11 / echarts => 4.0.0
 
 ### 1.配置项
     > 修改端口：                   `config/index.js` --port
@@ -26,6 +26,7 @@
     |   |   |   |-- common               //一些公用方法
     |   |   |-- font                     // 字体库文件夹
     |   |-- components                   // vue公共组件
+    |   |-- i18n                         // i18n国际化
     |   |-- pages                        // 所有页面
     |   |-- router                       // 路由配置文件
     |   |-- store                        // vuex相关文件
